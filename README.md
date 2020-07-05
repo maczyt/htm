@@ -37,7 +37,7 @@ enum TokenType {
 
 ### 状态机
 
-![JSX](/Users/maczyt/Documents/文档/知识点/JSX编译/JSX.jpg)
+![JSX](./JSX.jpg)
 
 ## Example
 
